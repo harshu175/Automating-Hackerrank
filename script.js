@@ -1,6 +1,6 @@
 const pup = require("puppeteer");
-let id = "yaxigas201@art2427.com";
-let pass = "4546#Harshu";
+let id = //yorr id 
+let pass = //your pass
 
 let browserPromise = pup.launch({
     headless: false,
